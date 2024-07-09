@@ -1,17 +1,6 @@
-# JPMorgan-Chase-Software-Engineering-Virtual-Experience
-vitual internship under JPMorgan
-JPMorgan Chase has traders in all the major financial centers and creates a marketplace for asset classes around the globe for our investor clients. Trading teams are organized by asset class:
+During my virtual internship at JPMorgan Chase, I collaborated closely with traders specializing in equities. They required new functionality on their dashboard to monitor a recently developed trading strategy. To achieve this, I established a robust system capable of interfacing with pertinent financial data feeds. This allowed me to perform necessary computations and present the output in a manner that enables real-time visualization and analysis by traders.
 
-Equities (stocks)
-Commodities
-Credit (debt and bonds)
-Currency & Emerging Markets
-Public Finance (Government bonds)
-Interest rates
-Securitized Products
-For this project, a trader from the equities team (publicly listed company stocks) has requested functionality be added to their dashboard to allow them to input specific information so they can monitor a new trading strategy.
-
-In order to do this,  i set up my system so i can interface with the relevant financial data feed, make the required calculations and then present this in a way that allows the traders to visualize and analyze this data in real time.
+Throughout the project, I utilized JPMorgan Chase's proprietary open-source software, Perspective, to implement the required changes effectively. This involved translating user requirements into actionable features, ensuring that the final product aligned seamlessly with the traders' needs. By doing so, I not only gained practical experience in financial data analysis and visualization but also demonstrated my ability to deliver solutions that enhance operational efficiency and decision-making within a trading environment.
 
 The visualization of charts and data analysis our trader’s see is all built on JPMorgan Chase's own open sourced software called Perspective. i learned how to implement this to facilitate the trader’s requested changes and deliver actionable insights.
 
